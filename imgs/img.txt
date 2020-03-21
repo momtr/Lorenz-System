@@ -1,0 +1,12 @@
+- imgs:
+  - first.png
+  - first_dt.png
+  - first_num.png
+  - second.png
+  - second_dt.png
+  - second_num.png
+  - third.png
+  - third_dt.png
+  - third_num.png
+  - screen.png
+- sources: http://www.sciweavers.org/free-online-latex-equation-editor
