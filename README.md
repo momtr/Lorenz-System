@@ -1,7 +1,7 @@
 # Lorenz-System
 The lorenz system (lorenz attractor) is a system of ordinary differential equations. It was first studied by Edward Lorenz.
 
-> ![lorenz_system](https://github.com/moritzmitterdorfer/Lorenz-System/blob/master/imgs/screen.png)
+![lorenz_system](https://github.com/moritzmitterdorfer/Lorenz-System/blob/master/imgs/screen.png)
 
 
 ## Mathematically
